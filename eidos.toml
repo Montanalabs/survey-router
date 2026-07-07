@@ -1,0 +1,7 @@
+name = "survey-router"
+version = "0.1.0"
+description = "Survey router"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
